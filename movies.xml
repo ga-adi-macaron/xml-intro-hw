@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <movie_collection xmlns:collection="http://movies.com">
+
+    <movie id = "horror"
+        title = "Conjuring"
+        description = "A movie about a haunted house">
+
+        <showtimes>
+            <Wednesday/>
+            <Noon/>
+            <Price value = "$5.00"/>
+        </showtimes>
+        <rating point="6.0"/>
+        <box_office sale="$4m"/>
+    </movie>
+
+    <movie id = "Adventure"
+        title = "Lord of the ring"
+        descriptoin = "A hobbit on the quest to destroy an evil ring.">
+
+        <showtimes>
+            <Monday/>
+            <Night/>
+            <Price value = "$8.00"/>
+            </showtimes>
+        <rating point="8.9"/>
+        <box_office sale="$100m"/>
+    </movie>
+
+    <movie id = "Race"
+        title = "Fast and the furious: Tokyo Drift"
+        description = "A movie about a young mane trying to redeem his mentor by winnign the name of being the best drifter in Tokyo.">
+
+        <showtimes>
+            <Sunday/>
+            <Morning/>
+            <Price value = "$3.00"/>
+        </showtimes>
+
+        <rating point="7.8"/>
+        <box_office sale="$40m"/>
+    </movie>
+
+    <movie id = "Sci-Fi"
+        title = "Star Trek"
+        description = "A star fleet on a mission to discover new frontier.">
+
+        <showtimes>
+            <Friday/>
+            <Midnight/>
+            <Price value = "$17.00"/>
+        </showtimes>
+
+        <rating point="8.0"/>
+        <box_office sale="$60m"/>
+    </movie>
+    </movie_collection>
