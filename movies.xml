@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movie_collection xmlns:collection="http://movies.com">
+    <movie
+    id="1"
+    title="Fight Club"
+    description="The narrator starts a fight club and experiences a major change">
+        <showtime>10:00PM</showtime>
+        <showtime>12:30AM</showtime>
+        <showtime>11:15PM</showtime>
+        <genre type="drama"/>
+        <IMAX availability="no"/>
+    </movie>
+    <movie
+    id="2"
+    title="A Clockwork Organge"
+    description="A man decides to set out for some good old ultra-violence">
+        <showtime>7:00PM</showtime>
+        <showtime>10:15PM</showtime>
+        <showtime>1:45AM</showtime>
+        <genre type="dystopian"/>
+        <characterSanity/>
+    </movie>
+    <movie
+    id="3"
+    title="Life of Pi"
+    description="A man recounts his impossible journey on a boat...with a tiger">
+        <showtime>12:45PM</showtime>
+        <showtime>4:00PM</showtime>
+        <showtime>8:10PM</showtime>
+        <IMAX availability="yes"/>
+        <tiger included="false"/>
+    </movie>
+    <movie
+    id="4"
+    title="Memento"
+    description="The story of a man so obsessed with remembering something that he gets a lot of tattoos">
+        <showtime>1:30PM</showtime>
+        <showtime>5:00PM</showtime>
+        <showtime>9:00PM</showtime>
+        <art type="tattoo"/>
+        <memories/>
+    </movie>
+</movie_collection>
