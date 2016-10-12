@@ -1,0 +1,81 @@
+<movie_collection collection:"http://movies.com">
+	<movie
+		collection:id="movie1"
+		collection:title="Forrest Gump"
+		collection:description="A loveable character stumbles into adventure">
+		<showtimes>
+			<weekdayNight
+				collections:numberOfShows=12/>
+			<weekendNight
+				collections:numberOfShows=8/>
+			<matinee
+				collections:numberOfShows=7/>
+		</showtimes>
+		<Equipment
+			collections:3DglassesRequired=false/>
+		<AgeRestriction
+			collections:movieRating="PG-13"/>
+	<movie
+		collection:id="movie2"
+		collection:title="Inception"
+		collection:description="A team dives deep into others' dreams">
+		<showtimes>
+			<weekdayNight
+				collections:numberOfShows=11/>
+			<weekendNight
+				collections:numberOfShows=6/>
+			<matinee
+				collections:numberOfShows=7/>
+		</showtimes>
+		<Equipment
+			collections:3DglassesRequired=true/>
+		<AgeRestriction
+			collections:movieRating="PG-13"/>
+	<movie
+		collection:id="movie3"
+		collection:title="Shawshank Redemption"
+		collection:description="A man tries to adapt to prison life while maintaining his innocence.">
+		<showtimes>
+			<weekdayNight
+				collections:numberOfShows=13/>
+			<weekendNight
+				collections:numberOfShows=9/>
+			<matinee
+				collections:numberOfShows=6/>
+		</showtimes>
+		<Equipment
+			collections:3DglassesRequired=false/>
+		<AgeRestriction
+			collections:movieRating="R"/>
+	<movie
+		collection:id="movie4"
+		collection:title="Gravity"
+		collection:description="An astronaut loses her crew and must face her own mortality">
+		<showtimes>
+			<weekdayNight
+				collections:numberOfShows=9/>
+			<weekendNight
+				collections:numberOfShows=5/>
+			<matinee
+				collections:numberOfShows=5/>
+		</showtimes>
+		<Equipment
+			collections:3DglassesRequired=true/>
+		<AgeRestriction
+			collections:movieRating="PG-13"/>
+	<movie
+		collection:id="movie5"
+		collection:title="Eternal Sunshine of the Spotless Mind"
+		collection:description="A self-destructing couple tries to forget their time together">
+		<showtimes>
+			<weekdayNight
+				collections:numberOfShows=10/>
+			<weekendNight
+				collections:numberOfShows=8/>
+			<matinee
+				collections:numberOfShows=5/>
+		</showtimes>
+		<Equipment
+			collections:3DglassesRequired=false/>
+		<AgeRestriction
+			collections:movieRating="R"/>
