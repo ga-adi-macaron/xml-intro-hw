@@ -1,0 +1,49 @@
+<Movie_Collection xmlns:pfx="http://movies.com" >
+    <Movie id="0"
+        title="Deadpool"
+        description="An ugly guy with superpowers looks for a guy named Francis.">
+
+        <showtime>9:40</showtime>
+        <showtime>11:20</showtime>
+        <showtime>1:15</showtime>
+
+        <Duration time="1hr48min"/>
+        <Rating rated="R"/>
+    </Movie>
+
+    <Movie id="1"
+        title="Inception"
+        description="People invade a guy's dream and the audience gets confused.">
+        <showtime>2:45</showtime>
+        <showtime>4:20</showtime>
+        <showtime>6:30</showtime>
+
+        <Duration time="2hr28min"/>
+        <Rating rated="PG-13"/>
+    </Movie>
+
+    <Movie id="2"
+        title= "Avatar"
+        description="Humans find alien blue humanoid creatures and have questionable relations with them.">
+
+        <showtime>2:00</showtime>
+        <showtime>3:15</showtime>
+        <showtime>4:30</showtime>
+
+        <Duration time = "2hr42min"/>
+        <Rating rated ="PG-13"/>
+    </Movie>
+
+    <Movie id="3"
+        title ="Shrek"
+        description ="A big green guy befriends an ass and marries a princess.">
+
+        <showtime>5:20</showtime>
+        <showtime>6:40</showtime>
+        <showtime>8:00</showtime>
+
+        <Duration time = "1hr35min"/>
+        <Rating rated = "PG"/>
+    </Movie>
+
+</Movie_Collection>
