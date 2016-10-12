@@ -1,4 +1,4 @@
-<Movie_Collection xmlns:pfx="http://movies.com" >
+<Movie_Collection xmlns:collection="http://movies.com" >
     <Movie id="0"
         title="Deadpool"
         description="An ugly guy with superpowers looks for a guy named Francis.">
