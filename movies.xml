@@ -1,0 +1,38 @@
+<Movie_Collection xmlns:collection="http://movies.com">
+    
+    <Movie
+        id = "01"
+        title = "BlahBlah"
+        description = "It's the movie about nothing">
+
+        <Showtime> 9:00pm </Showtime>
+        <Showtime> 9:20pm </Showtime>
+        <Showtime> 9:45pm </Showtime>
+        <Rating/>
+        <Price/>
+    </Movie>
+
+    <Movie
+        id = "02"
+        title = "Civil War"
+        description = "Two team members of the Marvel Avengers are at odds">
+
+        <Showtime> 10:10pm </Showtime>
+        <Showtime> 10:25pm </Showtime>
+        <Showtime> 10:40pm </Showtime>
+        <Rating/>
+        <Price/>
+    </Movie>
+
+    <Movie
+        id = "03"
+        title = "ProjectX"
+        description = "High school teenagers throw a birthday party that turns in uncontrollable mayhem">
+
+        <Showtime> 11:50pm </Showtime>
+        <Showtime> 12:00am </Showtime>
+        <Showtime> 12:30am </Showtime>
+        <Rating/>
+        <Price/>
+    </Movie>
+</Movie_Collection>
