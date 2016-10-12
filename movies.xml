@@ -35,4 +35,16 @@
         <Rating/>
         <Price/>
     </Movie>
+
+    <Movie
+        id = "04”
+        title = “American Pie”
+        description = “High schoolers on the quest to losing their virginity”>
+
+        <Showtime> 12:25am </Showtime>
+        <Showtime> 12:50am </Showtime>
+        <Showtime> 1:15am </Showtime>
+        <Rating/>
+        <Price/>
+    </Movie>
 </Movie_Collection>
