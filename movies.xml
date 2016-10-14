@@ -1,0 +1,40 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <collections xmlns: pfx = http://movies.com>\
+<movie_collection>\
+	<movie_1 \
+		android: elementID=movieChild1\
+		android: name=\'93SuperTroopers\'94\
+		android: description=\'93Comedy\'94>\
+			<showtimes>\
+				Monday 6:45pm, 8:15pm, 9:45pm\
+			</showtimes>\
+			<snacks/>\
+			<seats/>\
+	</movie_1>\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 	<movie_2 \
+		android: elementID=movieChild2\
+		android: name=\'93Star Trek\'94\
+		android: description=\'93SciFi\'94>\
+			<showtimes>\
+				Tuesday 5:45pm, 7:45pm, 9:45pm\
+			</showtimes>\
+			<snacks/>\
+			<seats/>\
+	</movie_2>\
+	<movie_3 \
+		android: elementID=movieChild3\
+		android: name=\'93Paranormal Activity\'94\
+		android: description=\'93Horror\'94>\
+			<showtimes>\
+				Thursday 6:45pm, 8:15pm, 9:45pm\
+			</showtimes>\
+			<snacks/>\
+			<seats/>\
+	</movie_3>\
+</movie_collection		}
