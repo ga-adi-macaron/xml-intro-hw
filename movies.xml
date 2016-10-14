@@ -1,0 +1,53 @@
+<movie_collectioin xmlns:collection="http://movies.com">
+    <film
+        collection:id="1"
+        collection:title="Fight Club"
+        collection:details="A miserable, mid 30's man falls victim to his split personality, which leads him down a path of self-destruction and self-understanding.">
+        <showtimes>
+            <morning>9:00am</morning>
+            <afternoon>3:00pm</afternoon>
+            <night>9:00pm</night>
+        </showtimes>
+        <running_time length="139 mins"/>
+        <date date="2011"/>
+    </film>
+    <film
+        collection:id="2"
+        collection:title="Kingdom of Heaven"
+        collectioin:details="A lowly blacksmith joins the Crusades in anattempt to redeem his wife's soul, following her suicide."
+        <showtimes>
+            <morning>7:30am</morning>
+            <afternoon>12:00pm</afternoon>
+            <night>8:30pm</night>
+        </showtimes>
+        <running_time length="144 mins"/>
+        <date date="2005"/>
+    </film>
+    <film
+        collection:id="3"
+        collection:title="Moby Dick"
+        collection:details="Captain Ahab and his crew set out on an ill-fated sea voyage to kill the white whale, Moby Dick."
+        <showtimes>
+            <morning>8:00am</morning>
+            <afternoon>4:30pm</afternoon>
+            <night>10:00pm</night>
+        </showtimes>
+        <running_time length="115 mins"/>
+        <date date="1956"/>
+    </film>
+    <film
+        collection:id="4"
+        collection:title="Star Wars: The Force Awakens"
+        collection:details="Kylo Ren and the First Order rise from the ashes of the Empire to search the galaxy for the last remaining Jedi - Luke Skywalker. Meanwhile, a young girl - Rae - discovers her sensitivity to the Force, and joins forces with Han Solo, a rogue Storm Trooper, and a host of others to find Skywalker before the First Order can."
+        <morning>11:00am</morning>
+        <afternoon>3:30pm</afternoon>
+        <night>9:00pm</night>
+        <running_time length="138 mins"/>
+        <date date="2015"/>
+    </film>
+</movie_collectioin>
+        
+        
+        
+                
+            
