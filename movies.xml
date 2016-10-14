@@ -1,0 +1,38 @@
+<movie_collection xlmns:collection="http://movies.com">
+	<movie0 id="0" title="Kibar Feyzo" description="Life of a famous ganster">
+		<showtimes>
+			<showtime0>11.00 AM</showtime0>
+			<showtime1>2:45 PM</showtime1>
+			<showtime2>6:30 PM</showtime2>
+		</showtimes>
+		<empty0 />
+		<empty1 />
+	</movie0>
+	<movie1 id="1" title="The Theory of Everything" description="Life of theoretical physics legend: Stephen Hawking">
+		<showtimes>
+			<showtime0>11.15 AM</showtime0>
+			<showtime1>3:00 PM</showtime1>
+			<showtime2>6:45 PM</showtime2>
+		</showtimes>
+		<empty0 />
+		<empty1 />
+	</movie1>
+	<movie2 id="2" title="Interstellar" description="Human kind must find a way to travel between stars to survice">
+		<showtimes>
+			<showtime0>11.30 AM</showtime0>
+			<showtime1>3:15 PM</showtime1>
+			<showtime2>7:00 PM</showtime2>
+		</showtimes>
+		<empty0 />
+		<empty1 />
+	</movie2>
+	<movie3 id="3" title="28 Days Later" description="Survival in zombie apocalypse">
+		<showtimes>
+			<showtime0>11.45 AM</showtime0>
+			<showtime1>3:30 PM</showtime1>
+			<showtime2>7:15 PM</showtime2>
+		</showtimes>
+		<empty0 />
+		<empty1 />
+	</movie3>
+</movie_collection>
