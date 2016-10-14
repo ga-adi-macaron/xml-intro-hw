@@ -1,0 +1,49 @@
+<movie_collection xmlns:collection= "http://movies.com">
+
+
+    <movie0 id="0" Release_year="2006" title="A Guide to Recognizing Your Saints" IMDb_rating= "7.1" description="A coming-of-age drama about a boy growing up in Astoria, N.Y., during the 1980s. As his friends end up dead, on drugs or in prison."
+        <showtimes>
+              <showtime0> 1:00 PM </showtime0>
+              <showtime1> 3:00 PM </showtime1>
+              <showtime2> 5:00 PM </showtime2>
+        </showtimes>
+      <where_em_1/>
+      <where_em_2/>
+
+    </movie0>
+
+    <movie1 id="1" Release_year="2011" title="Scalene" IMDb_rating= "6.0" description= "A perceptual thriller told from three points-of-view revolving around the rape of a female college student by a mentally handicapped man and his mother's subsequent revenge after his incarceration."
+        <showtimes>
+              <showtime0> 1:00 PM </showtime0>
+              <showtime1> 5:30 PM </showtime1>
+              <showtime2> 9:00 PM </showtime2>
+        </showtimes>
+      <where_em_1/>
+      <where_em_2/>
+
+    </movie1>
+ 
+  <movie2 id="2" Release_year="2014" title="After" IMDb_rating= "4.7" 
+  description= "A story centered around the Valentinos, a struggling family whose delicate balance is threatened by a carefully concealed secret that, if revealed, will change their lives forever."
+        <showtimes>
+              <showtime0> 1:00 PM </showtime0>
+              <showtime1> 3:15 PM </showtime1>
+              <showtime2> 5:30 PM </showtime2>
+        </showtimes>
+      <where_em_1/>
+      <where_em_2/>
+
+    </movie2>
+
+  <movie3 id="3" Release_year="2010" title="Stake Land" IMDb_rating= "6.5" description= "Martin was a normal teenage boy before the country collapsed in an empty pit of economic and political disaster. A vampire epidemic has swept across what is left of the nation's abandoned."
+        <showtimes>
+              <showtime> 1:10 PM </showtime0>
+              <showtime> 3:35 PM </showtime1>
+              <showtime> 9:05 PM </showtime2>
+        </showtimes>
+      <where_am_1/>
+      <where_am_2/>
+
+  </movie3>
+
+  </movie_collection>
