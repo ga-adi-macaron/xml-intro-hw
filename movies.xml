@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+        <movie_collection xmlns:collection="http://movies.com">
+            <movie
+                collection:id="1"
+                collection:title="The Iron Giant"
+                collection:description="A giant made of iron does a lot of stuff in a narrative fashion.">
+                <showtimes>
+                    <morning>10:45am</morning>
+                    <afternoon>2:00pm</afternoon>
+                    <evening>8:15pm</evening>
+                </showtimes>
+                <price price="$10.00"/>
+                <director human="Brad Bird"/>
+            </movie>
+            <movie
+                collection:id="2"
+                collection:title="Wet Hot American Summer"
+                collection:description="Summer is so hot! Also, I assume it's wet. Humidity and all.">
+                <showtimes>
+                    <morning>11:45am</morning>
+                    <afternoon>3:00pm</afternoon>
+                    <evening>9:15pm</evening>
+                </showtimes>
+                <price price="$13.00"/>
+                <director human="David Wayne"/>
+            </movie>
+            <movie
+                collection:id="3"
+                collection:title="The Holy Mountain"
+                collection:description="I honestly don't know how to describe this one.">
+                <showtimes>
+                    <morning>6:45am</morning>
+                    <afternoon>12:00pm</afternoon>
+                    <evening>11:15pm</evening>
+                </showtimes>
+                <price price="$20.00"/>
+                <director human="Alejandro Jodorowsky"/>
+            </movie>
+            <movie
+                collection:id="4"
+                collection:title="Hausu"
+                collection:description="Written by the director's 6 year old daughter, a house kills people">
+                <showtimes>
+                    <morning>10:45am</morning>
+                    <afternoon>2:00pm</afternoon>
+                    <evening>8:15pm</evening>
+                </showtimes>
+                <price price="$15.00"/>
+                <director human="Nobuhiko Obayashi"/>
+            </movie>
+        </movie_collection>
